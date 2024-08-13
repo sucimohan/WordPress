@@ -12,6 +12,6 @@
  * @var bool
  */
 define( 'WP_USE_THEMES', true );
-
+susmitha have created webhook to trigger the jenkines automatically 
 /** Loads the WordPress Environment and Template */
 require __DIR__ . '/wp-blog-header.php';
